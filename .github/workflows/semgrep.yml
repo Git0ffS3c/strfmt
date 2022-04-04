@@ -38,7 +38,7 @@ jobs:
             p/golang
             p/trailofbits
             p/owasp-top-ten
-            p/semgrep-go-correctness"
+            p/semgrep-go-correctness
           generateSarif: "1"
           
       # Upload SARIF file generated in previous step
